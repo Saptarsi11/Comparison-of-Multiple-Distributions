@@ -1,6 +1,4 @@
-# Introductory to Case Studies - Project 2
-#Team members - Group 5
-#Group members: Zahidul Islam Prince, Ikhtiar Ahmed, Saptarsi Bhattacharya, Hemalatha Sekar
+# Project 2 - Comparison of Multiple Distributions
 
 #Q1
 
